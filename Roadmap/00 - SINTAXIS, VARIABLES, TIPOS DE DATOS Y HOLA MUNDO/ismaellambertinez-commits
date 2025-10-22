@@ -1,0 +1,23 @@
+# python.org
+"""
+gojnvojn
+"""
+"""
+esto es un comentario
+"""
+my_variable = "Mi variable" 
+my_variable = "Nuevo valor de mi variable"
+
+MY_CONSTANT = "mi constante"
+
+my_int = 1
+my_float = 1.5
+my_bool = True
+my_bool = False
+my_string = "Mi Cadena de texto"
+my_other_string = "mi otra cadena de texto"
+print("¡Hola, pithon!")
+print(type(my_int))
+print(type(my_bool))
+print(type(my_float))
+print(type(my_other_string))
